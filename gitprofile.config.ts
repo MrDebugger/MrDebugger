@@ -36,7 +36,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ijaz Ur Rahim',
+    title: 'Ijaz Ur Rahim',
     description: 'A passionate Programmer and Security Researcher 🔒.',
     imageURL: 'https://ijazurrahim.com/images/profile.jpg',
   },
