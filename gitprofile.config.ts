@@ -103,16 +103,34 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Virtual University Of Pakistan',
+      degree: 'Computer engineering',
+      from: '2024',
+      to: '2027 (expected)',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Abasyn University',
+      degree: 'Computer engineering',
+      from: '2018',
+      to: '2021',
+    },
+    {
+      institution: 'National Institute of Basic Science',
+      degree: 'Computer science',
+      from: '2016',
+      to: '2018',
+    },
+    {
+      institution: 'Imperial College of Engineering Literacy',
+      degree: 'Computer science',
+      from: '2016',
+      to: '2017',
+    },
+    {
+      institution: 'Al-Khalid Public School Shabqadar',
+      degree: 'Computer science',
+      from: '2009',
+      to: '2016',
     },
   ],
   publications: [
@@ -121,7 +139,7 @@ const CONFIG = {
   blog: {
     source: 'medium', // medium | dev
     username: 'mrdebugger', // to hide blog section, keep it empty
-    limit: 5, // How many articles to display. Max is 10.
+    limit: 10, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
@@ -132,7 +150,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'night',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
