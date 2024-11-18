@@ -60,7 +60,7 @@ const CONFIG = {
     telegram: 'misterdebugger',
     website: 'https://ijazurrahim.com',
     phone: '',
-    email: 'ijazkhan095@gmail.com',
+    email: 'ijazkhan095@gmail.com'
   },
   resume: {
     fileUrl:
@@ -89,14 +89,14 @@ const CONFIG = {
       position: 'Sr. Python Engineer',
       from: 'March 2021',
       to: 'Present',
-      companyLink: 'https://lobstr.io',
+      companyLink: 'https://lobstr.io'
     },
     {
       company: 'Upwork',
       position: 'Freelancer',
       from: 'February 2019',
       to: 'Present',
-      companyLink: 'https://upwork.com',
+      companyLink: 'https://upwork.com'
     },
   ],
   certifications: [
@@ -139,7 +139,7 @@ const CONFIG = {
   blog: {
     source: 'medium', // medium | dev
     username: 'mrdebugger', // to hide blog section, keep it empty
-    limit: 10, // How many articles to display. Max is 10.
+    limit: 10 // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
