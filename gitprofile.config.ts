@@ -50,7 +50,7 @@ const CONFIG = {
     reddit: 'Fragrant_Tea959',
     threads: 'misterdebugger',
     youtube: 'ijazurrahim', // example: 'pewdiepie'
-    udemy: '',
+    udemy: 'ijaz-ur-rahim',
     dribbble: '',
     behance: 'ijazurrahim',
     medium: 'misterdebugger',
