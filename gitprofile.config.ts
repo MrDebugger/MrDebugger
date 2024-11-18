@@ -53,7 +53,7 @@ const CONFIG = {
     udemy: 'ijaz-ur-rahim',
     dribbble: '',
     behance: 'ijazurrahim',
-    medium: 'misterdebugger',
+    medium: 'mrdebugger',
     dev: '',
     stackoverflow: '9140224/ijaz-ur-rahim', // example: '1/jeff-atwood'
     skype: 'ijazurrahim99',
@@ -120,8 +120,8 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'misterdebugger', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
+    username: 'mrdebugger', // to hide blog section, keep it empty
+    limit: 5, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
