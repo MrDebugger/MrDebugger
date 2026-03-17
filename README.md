@@ -4,6 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=MrDebugger&style=flat-square&color=e94560&label=Profile+Views" alt="Profile Views"/>
 </p>
 
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E94560&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Pakistan;Python+%7C+Web+Scraping+%7C+Open+Source;Building+tools+that+solve+real+problems" alt="Typing SVG"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://ijazurrahim.com">
     <img src="https://img.shields.io/badge/Website-ijazurrahim.com-e94560?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
@@ -19,11 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Software Engineer</b> from Pakistan<br>
-  Building open-source Python tools for web scraping, data parsing, and developer productivity.
-</p>
-
 ---
 
 ```python
@@ -37,11 +39,20 @@
 
 ---
 
-### What I build
+### About me
 
-- **Web scraping & data extraction** — tools that make scraping reliable and maintainable
-- **Data format converters** — HTML to JSON, protobuf decoders, nested data access
-- **Developer utilities** — Python packages published on PyPI that solve real problems
+- Building open-source Python tools for **web scraping**, **data parsing**, and **developer productivity**
+- Author of **6+ PyPI packages** with real-world usage
+- Interested in **automation**, **reverse engineering**, and **data extraction**
+- Reach me at **[ijazurrahim.com](https://ijazurrahim.com)**
+
+---
+
+### Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,django,bash,linux,git,mysql,docker,vscode,github" alt="Tech Stack"/>
+</p>
 
 ---
 
@@ -118,19 +129,10 @@
 
 ---
 
-### Tech stack
+### GitHub trophies
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup"/>
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrDebugger&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -145,6 +147,18 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDebugger&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
+
+---
+
+### Activity graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrDebugger&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</p>
+
+---
+
+### Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrDebugger/MrDebugger/output/github-snake-dark.svg" />
