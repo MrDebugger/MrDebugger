@@ -10,6 +10,9 @@
   <a href="https://pypi.org/user/MrDebugger/">
     <img src="https://img.shields.io/badge/PyPI-MrDebugger-3776ab?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
   </a>
+  <a href="https://github.com/MrDebugger?tab=repositories">
+    <img src="https://img.shields.io/github/stars/MrDebugger?style=flat-square&logo=github&label=Total%20Stars" alt="Total Stars"/>
+  </a>
 </p>
 
 <p align="center">
