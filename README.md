@@ -32,17 +32,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MrDebugger/shadow-useragent">shadow-useragent</a></h3>
-      <a href="https://github.com/MrDebugger/shadow-useragent">
-        <img src="https://img.shields.io/github/stars/MrDebugger/shadow-useragent?style=flat-square" alt="stars"/>
-      </a>
-      <a href="https://pypi.org/project/shadow-useragent/">
-        <img src="https://img.shields.io/pypi/dm/shadow-useragent?style=flat-square" alt="downloads"/>
-      </a>
-      <br><br>
-      Pick the most common user-agents on the Internet. Auto-updating, zero config.
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/MrDebugger/deproto">deproto</a></h3>
       <a href="https://github.com/MrDebugger/deproto">
         <img src="https://img.shields.io/github/stars/MrDebugger/deproto?style=flat-square" alt="stars"/>
@@ -53,8 +42,6 @@
       <br><br>
       Decode, manipulate, and encode Google Maps protobuf format strings.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MrDebugger/bs2json">bs2json</a></h3>
       <a href="https://github.com/MrDebugger/bs2json">
@@ -65,17 +52,6 @@
       </a>
       <br><br>
       Convert BeautifulSoup4 HTML elements into structured JSON, preserving document order.
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MrDebugger/digin">digin</a></h3>
-      <a href="https://github.com/MrDebugger/digin">
-        <img src="https://img.shields.io/github/stars/MrDebugger/digin?style=flat-square" alt="stars"/>
-      </a>
-      <a href="https://pypi.org/project/digin/">
-        <img src="https://img.shields.io/pypi/dm/digin?style=flat-square" alt="downloads"/>
-      </a>
-      <br><br>
-      Dig into nested data structures using delimiter-separated key paths.
     </td>
   </tr>
   <tr>
@@ -91,15 +67,33 @@
       Convert JSON structures into BeautifulSoup HTML trees. The inverse of bs2json.
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/MrDebugger/bieniciscraper">bieniciscraper</a></h3>
-      <a href="https://github.com/MrDebugger/bieniciscraper">
-        <img src="https://img.shields.io/github/stars/MrDebugger/bieniciscraper?style=flat-square" alt="stars"/>
+      <h3><a href="https://github.com/MrDebugger/digin">digin</a></h3>
+      <a href="https://github.com/MrDebugger/digin">
+        <img src="https://img.shields.io/github/stars/MrDebugger/digin?style=flat-square" alt="stars"/>
       </a>
-      <a href="https://pypi.org/project/bieniciscraper/">
-        <img src="https://img.shields.io/pypi/dm/bieniciscraper?style=flat-square" alt="downloads"/>
+      <a href="https://pypi.org/project/digin/">
+        <img src="https://img.shields.io/pypi/dm/digin?style=flat-square" alt="downloads"/>
       </a>
       <br><br>
-      Scrape housing listings on Bien'ici from any search URL.
+      Dig into nested data structures using delimiter-separated key paths.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MrDebugger/LinkedIn-Scraper">LinkedIn-Scraper</a></h3>
+      <a href="https://github.com/MrDebugger/LinkedIn-Scraper">
+        <img src="https://img.shields.io/github/stars/MrDebugger/LinkedIn-Scraper?style=flat-square" alt="stars"/>
+      </a>
+      <br><br>
+      Scrape LinkedIn connections data and export to CSV / MySQL.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MrDebugger/Captcha-Solver">Captcha-Solver</a></h3>
+      <a href="https://github.com/MrDebugger/Captcha-Solver">
+        <img src="https://img.shields.io/github/stars/MrDebugger/Captcha-Solver?style=flat-square" alt="stars"/>
+      </a>
+      <br><br>
+      Bypass Google reCaptcha by recognizing images and audio challenges.
     </td>
   </tr>
 </table>
@@ -111,8 +105,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup"/>
   <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
