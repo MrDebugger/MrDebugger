@@ -1,3 +1,16 @@
+```python
+>>> from MrDebugger import Ijaz
+>>> Ijaz.hello()
+```
+```
+ Welcome to my GitHub! I build Python tools that solve real problems.
+ Let's dig in. 🔍
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrDebugger&style=flat-square&color=e94560&label=Profile+Views" alt="Profile Views"/>
+</p>
+
 <h1 align="center">Hey, I'm Ijaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
