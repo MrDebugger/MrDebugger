@@ -140,25 +140,12 @@
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrDebugger&theme=tokyonight" alt="GitHub stats" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrDebugger&theme=tokyonight" alt="Top languages" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrDebugger&theme=tokyonight" alt="Most used languages" height="200"/>
+  <img src="https://raw.githubusercontent.com/MrDebugger/MrDebugger/main/assets/stats.svg" alt="GitHub stats" height="200"/>
+  <img src="https://raw.githubusercontent.com/MrDebugger/MrDebugger/main/assets/languages.svg" alt="Most used languages" height="200"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDebugger&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
-### Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrDebugger&theme=tokyonight&utcOffset=5" alt="Commit times" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrDebugger&theme=tokyonight" alt="Contribution stats" height="200"/>
 </p>
 
 ---

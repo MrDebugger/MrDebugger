@@ -1,0 +1,44 @@
+name: Generate Stat Cards
+
+# Third-party card services get rate limited when GitHub's image proxy fetches
+# them, and the proxy then caches the error for hours. Generating the SVGs here
+# and serving them from this repo removes that failure mode entirely.
+#
+# Note: these commit to assets/ on main rather than the output branch, because
+# the snake workflow replaces the whole output branch on every run.
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  cards:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_cards.py "${{ github.repository_owner }}" assets
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/languages.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh stat cards"
+            git push
+          fi
