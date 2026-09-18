@@ -72,6 +72,16 @@
       Decode, manipulate, and encode Google Maps protobuf format strings.
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/MrDebugger/stripe-inspector">stripe-inspector</a></h3>
+      <a href="https://github.com/MrDebugger/stripe-inspector">
+        <img src="https://img.shields.io/github/stars/MrDebugger/stripe-inspector?style=flat-square" alt="stars"/>
+      </a>
+      <br><br>
+      Security research tool for Stripe API key enumeration. Maps what a leaked key can actually reach.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/MrDebugger/bs2json">bs2json</a></h3>
       <a href="https://github.com/MrDebugger/bs2json">
         <img src="https://img.shields.io/github/stars/MrDebugger/bs2json?style=flat-square" alt="stars"/>
@@ -82,8 +92,6 @@
       <br><br>
       Convert BeautifulSoup4 HTML elements into structured JSON, preserving document order.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MrDebugger/jsoup">jsoup</a></h3>
       <a href="https://github.com/MrDebugger/jsoup">
@@ -95,6 +103,8 @@
       <br><br>
       Convert JSON structures into BeautifulSoup HTML trees. The inverse of bs2json.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MrDebugger/digin">digin</a></h3>
       <a href="https://github.com/MrDebugger/digin">
@@ -105,6 +115,14 @@
       </a>
       <br><br>
       Dig into nested data structures using delimiter-separated key paths.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MrDebugger/nevainter">nevainter</a></h3>
+      <a href="https://github.com/MrDebugger/nevainter">
+        <img src="https://img.shields.io/github/stars/MrDebugger/nevainter?style=flat-square" alt="stars"/>
+      </a>
+      <br><br>
+      Modular scraper for exhibitor data, built around pluggable extractors.
     </td>
   </tr>
   <tr>
