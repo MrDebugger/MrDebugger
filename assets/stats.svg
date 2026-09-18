@@ -8,8 +8,8 @@
   <rect x="0.5" y="0.5" width="339" height="224" rx="6" fill="#1a1b27" stroke="#38bdae" stroke-opacity="0.35"/>
   <text x="25" y="35" class="t">MrDebugger's GitHub Stats</text>
   <text x="25" y="70" class="k">Stars Earned:</text><text x="270" y="70" class="v" text-anchor="end">81</text>
-  <text x="25" y="95" class="k">Commits (public, 1y):</text><text x="270" y="95" class="v" text-anchor="end">1,870</text>
-  <text x="25" y="120" class="k">Pull Requests:</text><text x="270" y="120" class="v" text-anchor="end">76</text>
+  <text x="25" y="95" class="k">Commits (public, 1y):</text><text x="270" y="95" class="v" text-anchor="end">410</text>
+  <text x="25" y="120" class="k">Pull Requests:</text><text x="270" y="120" class="v" text-anchor="end">30</text>
   <text x="25" y="145" class="k">Public Repos:</text><text x="270" y="145" class="v" text-anchor="end">40</text>
   <text x="25" y="170" class="k">Followers:</text><text x="270" y="170" class="v" text-anchor="end">35</text>
   <text x="25" y="207" class="s">updated 2026-09-18</text>
