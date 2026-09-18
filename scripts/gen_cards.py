@@ -120,16 +120,19 @@ def frame(w, h, title, body):
 
 
 def stats_card(d):
-    rows = [("Total Stars Earned", d["stars"]), ("Total Commits", d["commits"]),
-            ("Total PRs", d["prs"]), ("Total Issues", d["issues"]),
+    # contributionsCollection covers the trailing 12 months, and the workflow's
+    # GITHUB_TOKEN only sees public activity - so label these for what they are
+    # rather than implying an all-time total.
+    rows = [("Stars Earned", d["stars"]), ("Commits (public, 1y)", d["commits"]),
+            ("Pull Requests", d["prs"]), ("Issues Opened", d["issues"]),
             ("Public Repos", d["repos"]), ("Followers", d["followers"])]
-    rows = [(k, v) for k, v in rows if v or k in ("Public Repos", "Followers", "Total Stars Earned")]
+    rows = [(k, v) for k, v in rows if v or k in ("Public Repos", "Followers", "Stars Earned")]
     body = "".join(
         f'  <text x="25" y="{70 + i * 25}" class="k">{esc(k)}:</text>'
         f'<text x="270" y="{70 + i * 25}" class="v" text-anchor="end">{v:,}</text>\n'
         for i, (k, v) in enumerate(rows))
     body += f'  <text x="25" y="{70 + len(rows) * 25 + 12}" class="s">updated {datetime.now(timezone.utc):%Y-%m-%d}</text>\n'
-    return frame(300, 70 + len(rows) * 25 + 30, f"{USER}'s GitHub Stats", body)
+    return frame(340, 70 + len(rows) * 25 + 30, f"{USER}'s GitHub Stats", body)
 
 
 def langs_card(d, top=6):

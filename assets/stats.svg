@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="225" viewBox="0 0 300 225" role="img" aria-label="MrDebugger's GitHub Stats">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="225" viewBox="0 0 340 225" role="img" aria-label="MrDebugger's GitHub Stats">
   <style>
     .t { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
     .k { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #a9b1d6; }
     .v { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #bf91f3; }
     .s { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
   </style>
-  <rect x="0.5" y="0.5" width="299" height="224" rx="6" fill="#1a1b27" stroke="#38bdae" stroke-opacity="0.35"/>
+  <rect x="0.5" y="0.5" width="339" height="224" rx="6" fill="#1a1b27" stroke="#38bdae" stroke-opacity="0.35"/>
   <text x="25" y="35" class="t">MrDebugger's GitHub Stats</text>
-  <text x="25" y="70" class="k">Total Stars Earned:</text><text x="270" y="70" class="v" text-anchor="end">81</text>
-  <text x="25" y="95" class="k">Total Commits:</text><text x="270" y="95" class="v" text-anchor="end">409</text>
-  <text x="25" y="120" class="k">Total PRs:</text><text x="270" y="120" class="v" text-anchor="end">30</text>
+  <text x="25" y="70" class="k">Stars Earned:</text><text x="270" y="70" class="v" text-anchor="end">81</text>
+  <text x="25" y="95" class="k">Commits (public, 1y):</text><text x="270" y="95" class="v" text-anchor="end">1,870</text>
+  <text x="25" y="120" class="k">Pull Requests:</text><text x="270" y="120" class="v" text-anchor="end">76</text>
   <text x="25" y="145" class="k">Public Repos:</text><text x="270" y="145" class="v" text-anchor="end">40</text>
   <text x="25" y="170" class="k">Followers:</text><text x="270" y="170" class="v" text-anchor="end">35</text>
   <text x="25" y="207" class="s">updated 2026-09-18</text>
