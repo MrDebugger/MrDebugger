@@ -140,8 +140,12 @@
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDebugger&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDebugger&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrDebugger&theme=tokyonight" alt="GitHub stats" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrDebugger&theme=tokyonight" alt="Top languages" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrDebugger&theme=tokyonight" alt="Most used languages" height="200"/>
 </p>
 
 <p align="center">
@@ -150,10 +154,11 @@
 
 ---
 
-### Activity graph
+### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrDebugger&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrDebugger&theme=tokyonight&utcOffset=5" alt="Commit times" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrDebugger&theme=tokyonight" alt="Contribution stats" height="200"/>
 </p>
 
 ---
